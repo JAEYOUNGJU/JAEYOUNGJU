@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![JAEYOUNGJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOUNGJU&show_icons=true&theme=dark)   
 <div align=center><h3>✨ STACKS</h3></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
