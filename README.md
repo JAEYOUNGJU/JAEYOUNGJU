@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JAEYOUNGJU/JAEYOUNGJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAEYOUNGJU&count_bg=%23079A8A&title_bg=%2350DE24&icon=&icon_color=%23EAE602&title=hits&edge_flat=false"/></a>
-
+<center>
 ![JAEYOUNGJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOUNGJU&show_icons=true&theme=gruvbox)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEYOUNGJU&layout=&theme=cobalt)
 <div align=center><h3>✨ STACKS</h3></div>
@@ -31,4 +29,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/linux-FCC624?style=flate&logo=linux&logoColor=black">
 <br>
 </div>
-  
+ </center>
