@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Java-green?style=flat&logo=Sass&logoColor=007396"/>
+<img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=007396"/>
 
