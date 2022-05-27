@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align=center> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flate&logo=python&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
