@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c-00599C?style=flate&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <br>
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flate&logo=Eclipse&logoColor=white"> 	
+<img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flate&logo=jupyter&logoColor=white"> 	
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flate&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flate&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flate&logo=Eclipse&logoColor=white"> 	
-<img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flate&logo=jupyter&logoColor=white"> 	
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flate&logo=linux&logoColor=black">
