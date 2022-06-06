@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flate&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flate&logo=Visual Studio Code&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flate&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flate&logo=ubuntu&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache-D22128?style=flate&logo=apache&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flate&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/git-F05032?style=flate&logo=git&logoColor=white">	
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
