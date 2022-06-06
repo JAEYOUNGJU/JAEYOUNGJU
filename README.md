@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flate&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flate&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flate&logo=Eclipse&logoColor=white"> 	
-<img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flate&logo=jupyter&logoColor=whit"> 	
+<img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flate&logo=jupyter&logoColor=white"> 	
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flate&logo=linux&logoColor=black">
