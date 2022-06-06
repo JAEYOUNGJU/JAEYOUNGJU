@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flate&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flate&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> 	
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=whit"> 	
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flate&logo=Eclipse&logoColor=white"> 	
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flate&logo=jupyter&logoColor=whit"> 	
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flate&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flate&logo=ubuntu&logoColor=white"> 
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flate&logo=apache&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flate&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flate&logo=amazonaws&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">	
+<img src="https://img.shields.io/badge/git-F05032?style=flate&logo=git&logoColor=white">	
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flate&logo=amazonaws&logoColor=white">
 </div>
