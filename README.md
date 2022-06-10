@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEYOUNGJU&layout=compact)](https://github.com/JAEYOUNGJU/github-readme-stats)
 [![JAEYOUNGJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOUNGJU)](https://github.com/JAEYOUNGJU/github-readme-stats)
  -->
-<div align=center><h2>📌 RANK</h2></div>
-
-[![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=rapaella1109)](https://solved.ac/rapaella1109)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmiring&layout=compact)](https://github.com/yoonmiring/github-readme-stats)
-[![yoonmiring's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmiring)](https://github.com/yoonmiring/github-readme-stats)
-
 
 <div align=center><h3>✨ STACKS</h3></div>
 <div align=center> 
