@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?color=006400)
 <!--
 **JAEYOUNGJU/JAEYOUNGJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
