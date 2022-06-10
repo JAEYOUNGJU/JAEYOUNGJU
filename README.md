@@ -1,5 +1,3 @@
-
-
 <!--
 **JAEYOUNGJU/JAEYOUNGJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=93DAFF&height=150&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFDC3C&height=150&section=header&text=capsule_render&animation=fadeIn)
+
+
 <div align=center> 
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAEYOUNGJU&count_bg=%23079A8A&title_bg=%2350DE24&icon=&icon_color=%23EAE602&title=hits&edge_flat=false"/></a> -->
 
