@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3776AB?style=flate&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/c-00599C?style=flate&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flate&logo=Eclipse&logoColor=white"> 	
 <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flate&logo=jupyter&logoColor=white"> 	
@@ -43,6 +45,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/apache-D22128?style=flate&logo=apache&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flate&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flate&logo=Postman&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/git-F05032?style=flate&logo=git&logoColor=white">	
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
